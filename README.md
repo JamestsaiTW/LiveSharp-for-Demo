@@ -37,12 +37,12 @@ This demo code is a sample/documentation to know how use LiveSharp in Xamarin.Fo
    回到 Visual Studio 當中撰寫或編輯 C# Code。  
 
 
-### For Your Empty Project Settings
+### For Your Project Settings
 
-1. Create a Xamarin.Forms project.  
-   建立一個 Xamarin.Forms 的方案。  
+1. Create a new Xamarin.Forms project.  
+   建立一個新的 Xamarin.Forms 的方案。  
    
-2. Update all Nuget packages in each project, then make sure your project build success and work with no error.
+2. Update all Nuget packages in each project, then make sure your project build success and work with no error.  
    在每一個專案當中更新所有的 Nuget 套件, 然後確認所建立的方案編譯正常成功沒有錯誤。  
    
 3. Install [LiveSharp.Support.XamarinForms Nuget package](https://www.nuget.org/packages/LiveSharp.Support.XamarinForms/). (Just only on Xamarin.Forms Project.)  

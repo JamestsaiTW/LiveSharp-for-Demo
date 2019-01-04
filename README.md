@@ -1,5 +1,11 @@
 # LiveSharpDemo By Using Xamarin.Forms
 
+# What is LiveSharp?
+LiveSharp is a .NET tool that lets you develop your code without recompilation.
+
+# Use LiveSharp in Xamarin.Forms
+This demo code is a sample/documentation to use LiveSharp in Xamarin.Forms 
+
 ## For Visual Studio Settings
 1. Install [LiveSharp Visual Studio extension](https://marketplace.visualstudio.com/items?itemName=ionoy.LiveSharp)
 2. In Visual Studio menu: Tools > Options > (or Debug > Options) > Debugging > General, deselect "Edit and Continue" in the right pane.

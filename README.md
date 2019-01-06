@@ -3,7 +3,7 @@
 ## What is LiveSharp?
 
 LiveSharp is a .NET tool that lets you develop your code without recompilation.  
-LiveSharp 讓你在使用 .NET 開發程式不需要重新編譯就能看到執行結果的工具。
+LiveSharp 讓你在開發 .NET 程式時不需要透過重新編譯的動作，就能看到執行結果的工具。
 
 Read more:  
 了解更多:  
@@ -34,7 +34,10 @@ This demo code is a sample/documentation to know how use LiveSharp in Xamarin.Fo
    使用偵錯 (F5) 執行你的 App。
    
 3. Write or Edit your C# Code in Visual Studio.  
-   回到 Visual Studio 當中撰寫或編輯 C# Code。  
+   回到 Visual Studio 當中撰寫或編輯 C# Code。
+   
+4. Watch result.
+   觀看執行結果。
 
 
 ### For Your Project Settings
@@ -56,3 +59,6 @@ This demo code is a sample/documentation to know how use LiveSharp in Xamarin.Fo
    
 6. Write or Edit your C# Code in Visual Studio.  
    回到 Visual Studio 當中撰寫或編輯 C# Code。
+
+7. Watch result.
+   觀看執行結果。

@@ -36,7 +36,7 @@ This demo code is a sample/documentation to know how use LiveSharp in Xamarin.Fo
 3. Write or Edit your C# Code in Visual Studio.  
    回到 Visual Studio 當中撰寫或編輯 C# Code。
    
-4. Watch result.
+4. Watch result.  
    觀看執行結果。
 
 
@@ -60,5 +60,5 @@ This demo code is a sample/documentation to know how use LiveSharp in Xamarin.Fo
 6. Write or Edit your C# Code in Visual Studio.  
    回到 Visual Studio 當中撰寫或編輯 C# Code。
 
-7. Watch result.
+7. Watch result.  
    觀看執行結果。
